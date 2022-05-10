@@ -1,0 +1,9 @@
+[submodule "packages/sdk-js"]
+	path = packages/sdk-js
+	url = git@github.com:sajari/sdk-js.git
+[submodule "packages/sdk-react"]
+	path = packages/sdk-react
+	url = git@github.com:sajari/sdk-react.git
+[submodule "packages/search-widgets"]
+	path = packages/search-widgets
+	url = git@github.com:sajari/search-widgets.git
